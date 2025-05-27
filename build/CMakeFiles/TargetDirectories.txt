@@ -1,4 +1,0 @@
-C:/Users/User/OneDrive/Desktop/OPI-9/build/CMakeFiles/game.dir
-C:/Users/User/OneDrive/Desktop/OPI-9/build/CMakeFiles/tictactoe.dir
-C:/Users/User/OneDrive/Desktop/OPI-9/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/User/OneDrive/Desktop/OPI-9/build/CMakeFiles/ZERO_CHECK.dir
